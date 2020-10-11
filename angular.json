@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "movies-list-app"
+    }
+  },
+  "defaultProject": "movies-list-app",
+  "cli": {
+    "analytics": false
+  }
 }
